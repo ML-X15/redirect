@@ -1,3 +1,4 @@
 Sphinx==4.4.0
 sphinx-rtd-theme==1.0.0
 sphinx-panels==0.6.0
+sphinx-reredirects==0.1.1

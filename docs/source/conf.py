@@ -20,9 +20,15 @@ extensions = [
     'sphinx.ext.intersphinx',
     'sphinx_rtd_theme',
     'sphinx_panels',
+    'sphinx_reredirects'
 ]
 
 autosectionlabel_prefix_document = True
+
+redirects = {
+    "index": "https://first-tech-challenge-ftcdocs.readthedocs-hosted.com/en/latest/"
+}
+
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
