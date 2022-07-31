@@ -26,7 +26,7 @@ extensions = [
 autosectionlabel_prefix_document = True
 
 redirects = {
-    "index": "https://first-tech-challenge-ftcdocs.readthedocs-hosted.com/en/latest/"
+    "index": "https://ftc-docs.ftclive.org/"
 }
 
 
